@@ -1,0 +1,5 @@
+用户登录：
+前端请求：
+	xiaoguanjia.com/login?wechatId=0010201&wechatName=黄恺
+后台返回：
+	{"flag":"yes/no", "isFirstTime":"yes/no"}

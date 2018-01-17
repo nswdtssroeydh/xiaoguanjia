@@ -49,6 +49,6 @@ public class LogDao {
 	
 	public static void main(String[] args)
 	{
-		saveLog("黄恺", "测试", new Timestamp(System.currentTimeMillis()), "测试黄恺保存");
+		saveLog("嘟嘟", "测试5", new Timestamp(System.currentTimeMillis()), "测试保存");
 	}
 }
